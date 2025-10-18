@@ -2,14 +2,13 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGltMmJhYzBtOG5xaGE2aTZ0NnRrazRkaXByZ283Mzk0dXEzeXF5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="200">
 
-<p><em>Computer Science Student at <a href="https://www.charlotte.edu/">UNC Charlotte</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</em></p>
+<p><em>Computer Science Student at <a href="https://www.charlotte.edu/">UNC Charlotte</a> 💻 👾 </em></p>
 
 [![Linkedin: saniddhya](https://img.shields.io/badge/-saniddhya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saniddhyadubey/)
 [![GitHub SaniddhyaDubey](https://img.shields.io/github/followers/saniddhyaDubey?label=follow&style=social)](https://github.com/saniddhyaDubey)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### ⚠️ A little more about me...  
 ```cpp
 class Saniddhya {
 public:
