@@ -14,7 +14,7 @@ public:
     vector<string> pronouns = {"he", "him"};
     vector<string> code = {"C++", "Rust", "TypeScript", "Python"};
     vector<string> tools = {"Linux", "Docker", "Git", "Microservices"};
-    vector<string> architecture = {"Systems Programming", "Backend Development", "Performance Optimization"};
+    vector<string> architecture = {"Systems Programming", "Backend Development"};
     
     struct TechCommunities {
         string interest = "Systems Programming";
