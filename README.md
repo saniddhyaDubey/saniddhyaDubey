@@ -1,12 +1,13 @@
-<h2> Hi, I'm Saniddhya <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR2OTY0cWN2N3VwcGh0Zmx3aHIwZDU3dDJ6dm12OGIzNHl1cjJoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7EvbrzyNoIR38uavt/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Saniddhya <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnR2OTY0cWN2N3VwcGh0Zmx3aHIwZDU3dDJ6dm12OGIzNHl1cjJoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7EvbrzyNoIR38uavt/giphy.gif" width="30"></h2>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGltMmJhYzBtOG5xaGE2aTZ0NnRrazRkaXByZ283Mzk0dXEzeXF5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGltMmJhYzBtOG5xaGE2aTZ0NnRrazRkaXByZ283Mzk0dXEzeXF5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="200">
 
 <p><em>Computer Science Student at <a href="https://www.charlotte.edu/">UNC Charlotte</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: saniddhya](https://img.shields.io/badge/-saniddhya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_PROFILE)](YOUR_LINKEDIN_PROFILE)
+[![Linkedin: saniddhya](https://img.shields.io/badge/-saniddhya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saniddhyadubey/)
 [![GitHub SaniddhyaDubey](https://img.shields.io/github/followers/saniddhyaDubey?label=follow&style=social)](https://github.com/saniddhyaDubey)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```cpp
@@ -21,7 +22,6 @@ public:
         string interest = "Systems Programming";
         string currentChallenge = "Deep dive into C++ performance optimization";
     } techProfile;
-
     void connect() {
         cout << "Always eager to learn and collaborate!" << endl;
     }
