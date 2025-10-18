@@ -7,7 +7,6 @@
 [![Linkedin: saniddhya](https://img.shields.io/badge/-saniddhya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saniddhyadubey/)
 [![GitHub SaniddhyaDubey](https://img.shields.io/github/followers/saniddhyaDubey?label=follow&style=social)](https://github.com/saniddhyaDubey)
 
-
 ### ⚠️ A little more about me...  
 ```cpp
 class Saniddhya {
@@ -31,3 +30,7 @@ public:
     }
 };
 ```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Connecting through code, one challenge at a time!</em>
+
+---
