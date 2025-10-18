@@ -14,17 +14,21 @@
 class Saniddhya {
 public:
     vector<string> pronouns = {"he", "him"};
-    vector<string> code = {"C++", "Python", "JavaScript", "TypeScript", "Node.js"};
-    vector<string> tools = {"Linux", "Docker", "CMake", "Boost", "STL"};
-    vector<string> architecture = {"Systems Programming", "Low-Level Optimization", "Backend Development"};
+    vector<string> code = {"C++", "Rust", "TypeScript", "Python"};
+    vector<string> tools = {"Linux", "Docker", "Git", "Microservices"};
+    vector<string> architecture = {"Systems Programming", "Backend Development", "Performance Optimization"};
     
     struct TechCommunities {
         string interest = "Systems Programming";
-        string currentChallenge = "Deep dive into C++ performance optimization";
+        vector<string> currentChallenge = {
+            "Deep dive into C++ Performance Optimization", 
+            "LeetCode 200 Days Challenge", 
+            "Pushing Rating to 1700"
+        };
     } techProfile;
+
     void connect() {
-        cout << "Always eager to learn and collaborate!" << endl;
+        cout << "Building high-performance systems, one line of code at a time!" << endl;
     }
 };
 ```
----
