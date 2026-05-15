@@ -17,8 +17,11 @@ public:
 
     struct CurrentWork {
         vector<string> building = {
-            "Moderation and Discovery Engine using graph based Trust Discovery to avoid spams",
-            "Active in multiple open-source projects from domains like Job Hunt Tools, BTC Nostr server development."
+            "Moderation and Discovery Engine using graph based
+              Trust Discovery to avoid spams",
+            "Active in multiple open-source projects from
+              domains like Job Hunt Tools,
+              BTC Nostr server development."
         };
         vector<string> exploring = {
             "learning more algorithms and maths to solve hard problems",
