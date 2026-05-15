@@ -21,7 +21,7 @@ public:
             "Active in multiple open-source projects from domains like Job Hunt Tools, BTC Nostr server development."
         };
         vector<string> exploring = {
-            "Algorithms and learning more maths to solve problems",
+            "learning more algorithms and maths to solve hard problems",
             "AI powered codebases"
         };
     } now;
