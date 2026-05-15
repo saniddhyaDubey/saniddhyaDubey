@@ -2,9 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGltMmJhYzBtOG5xaGE2aTZ0NnRrazRkaXByZ283Mzk0dXEzeXF5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="200">
 
-<p><em>Computer Science Student at <a href="https://www.charlotte.edu/">UNC Charlotte</a> 💻 👾 </em></p>
+<p><em> New Grad Software Engineer · UNC Charlotte '26 💻 </em></p>
 
-[![Linkedin: saniddhya](https://img.shields.io/badge/-saniddhya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saniddhyadubey/)
 [![GitHub SaniddhyaDubey](https://img.shields.io/github/followers/saniddhyaDubey?label=follow&style=social)](https://github.com/saniddhyaDubey)
 
 ### ⚠️ A little more about me...  
@@ -12,21 +11,23 @@
 class Saniddhya {
 public:
     vector<string> pronouns = {"he", "him"};
-    vector<string> code = {"C++", "Rust", "TypeScript", "Python"};
-    vector<string> tools = {"Linux", "Docker", "Git", "Microservices"};
-    vector<string> architecture = {"Systems Programming", "Backend Development"};
-    
-    struct TechCommunities {
-        string interest = "Systems Programming";
-        vector<string> currentChallenge = {
-            "Deep dive into C++ Performance Optimization", 
-            "LeetCode 200 Days Challenge", 
-            "Pushing Rating to 1700"
+    vector<string> stack = {"C++", "TypeScript"};
+    vector<string> tools = {"Linux", "Docker", "Git"};
+    vector<string> domain = {"Backend Development", "Algorithms"};
+
+    struct CurrentWork {
+        vector<string> building = {
+            "Moderation and Discovery Engine using graph based Trust Discovery to avoid spams",
+            "Active in multiple open-source projects from domains like Job Hunt Tools, BTC Nostr server development."
         };
-    } techProfile;
+        vector<string> exploring = {
+            "Algorithms and learning more maths to solve problems",
+            "AI powered codebases"
+        };
+    } now;
 
     void connect() {
-        cout << "Building high-performance systems, one line of code at a time!" << endl;
+        cout << "Obsessed with computer science." << endl;
     }
 };
 ```
