@@ -11,17 +11,13 @@
 class Saniddhya {
 public:
     vector<string> pronouns = {"he", "him"};
-    vector<string> stack = {"C++", "TypeScript"};
-    vector<string> tools = {"Linux", "Docker", "Git"};
+    vector<string> stack = {"TypeScript", "Python"};
+    vector<string> tools = {"Linux", "Render", "Git"};
     vector<string> domain = {"Backend Development", "Algorithms"};
 
     struct CurrentWork {
         vector<string> building = {
-            "Moderation and Discovery Engine using graph based
-              Trust Discovery to avoid spams",
-            "Active in multiple open-source projects from
-              domains like Job Hunt Tools,
-              BTC Nostr server development."
+            "standardization services in healthcare"
         };
         vector<string> exploring = {
             "learning more algorithms and maths to solve hard problems",
